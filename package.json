@@ -1,0 +1,12 @@
+{
+  "name": "macdonalds-test-project",
+  "version": "1.0.0",
+  "description": "Simple signup and login app for Macdonald's test project.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.4"
+  }
+}
